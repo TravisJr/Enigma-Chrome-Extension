@@ -15,7 +15,16 @@ Then the sum of the code word is added to each character of the selected text. W
 4) Turn on Developer mode;
 5) Click the `Load unpacked extension` button and select the unzipped folder for your extension to install it.
 6) Turn on Enigma Eye
-7) Enjoy) 
+7) Enjoy)
+
+
+## How to use
+1) Open **Enigma Eye** settings; 
+2) Think up a code word and enter it in the input **(its important that your opponent has the exact same code word)**;
+3) Go to any site, select the text, open the context menu and select the item `Encrypt and Copy`;
+4) The selected text has been encrypted and copied to the clipboard. Now you can send an encrypted message to your opponent;
+5) After your opponent has received the message, it will be automatically decrypted and shown on the site of the encrypted message (automatic search and replace of the [ENIGMA] tag).
+
 
 ## Interesting solution
 
